@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alireza Nasoodi<br>👀 I’m interested in Web Development and Cloud Computing<br>🌱 I’m currently learning Next.js & .NET Core
+👋 Hi, I’m Alireza Nasoodi<br>👀 I’m interested in Web Development and Cloud Computing<br>🌱 I’m currently developing my knoledge in Spring Boot
 
 
 # 💻 Tech Stack:
